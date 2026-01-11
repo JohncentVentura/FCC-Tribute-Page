@@ -1,4 +1,4 @@
-# freeCodeCamp - Responsive Web Design Certification
+# freeCodeCamp - Legacy Responsive Web Design V8 Certification
 ## Certification Project: Tribute Page
 This is one of the required projects to earn your certification.
 
